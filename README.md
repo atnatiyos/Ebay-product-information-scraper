@@ -37,12 +37,12 @@ Product Name	Price	Condition	Origin	Image URL
 
     Install the required libraries:
 
-pip install requirements.txt
+pip install requirement.txt
 
 Make sure you have the correct browser driver (e.g., ChromeDriver) installed and in your PATH.
 
 Run the script:
 
-    python scraper.py
+    python main.py
 
     💡 Note: Update the target product in the script based on the product you're scraping.
